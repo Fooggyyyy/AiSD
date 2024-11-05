@@ -1,0 +1,3 @@
+﻿  Example1.cpp
+C:\Users\user\source\repos\AiSD_04\AiSD_04\Example1.cpp(27,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AiSD_04.vcxproj -> C:\Users\user\source\repos\AiSD_04\x64\Debug\AiSD_04.exe
